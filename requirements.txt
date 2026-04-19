@@ -1,11 +1,6 @@
-chromadb
-sentence-transformers
-openai
-python-dotenv
-pandas
-numpy
-langchain
-langchain-openai
-langchain-community
-tqdm
-rich
+anthropic>=0.50.0
+python-dotenv>=1.1.0
+numpy>=2.3.1
+scipy>=1.16.0
+chromadb>=1.0.12
+sentence-transformers>=4.1.0
